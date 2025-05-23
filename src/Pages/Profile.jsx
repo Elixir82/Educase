@@ -15,13 +15,13 @@ export default function AccountSettings() {
             <div className="relative">
               
               <img 
-                src="src\wp10541459-batman-2022-movie-wallpapers.jpg" 
+                src="/wp10541459-batman-2022-movie-wallpapers.jpg" 
                 alt="Profile" 
                 className="w-12 h-12 rounded-full bg-gray-200 object-cover"
               />
               
               <div className="absolute -bottom-1 -right-1 w-6 h-6  rounded-full flex items-center justify-center">
-                <img src="src/Group 1585.svg" alt="Verification" className="w-5 h-5" />
+                <img src="/Group 1585.svg" alt="Verification" className="w-5 h-5" />
               </div>
             </div>
             
